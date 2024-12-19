@@ -6,7 +6,7 @@ This project analyzes fuel economy data provided by the U.S. Environmental Prote
 - **Fuel Economy (MPG)**: Miles per gallon (MPG) for various vehicle classes.
 - **Greenhouse Gas Score**: Environmental score based on the vehicle's greenhouse gas emissions.
 - **Vehicle Class**: Categories of vehicles (e.g., compact, SUV, sedan, etc.).
-
+- The dataset used for this project is provided by the [U.S. Environmental Protection Agency (EPA)](https://www.fueleconomy.gov/feg/download.shtml) and can be accessed for further details.
 ## Objective
 The main goal of this project is to:
 
